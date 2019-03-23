@@ -5,3 +5,4 @@ Authors:
 * Sabrina F
 * Izzi A
 * Kaylor B
+![sleeping is power](sleeping-brain..jpg)
